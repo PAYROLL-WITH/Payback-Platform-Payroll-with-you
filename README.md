@@ -1,7 +1,5 @@
 ---
-description: >-
-  [ Payroll 공식 홈페이지 :
-  https://port-0-payroll-svelte-eu1k2llldv5wef.sel3.cloudtype.app/ (임시) ]
+description: '[ Payroll 공식 홈페이지 : https://payroll-partner.com/ ]'
 ---
 
 # 👋 3분만에 끝나는 Bitget 페이백 계정생성
